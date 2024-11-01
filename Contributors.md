@@ -14,6 +14,8 @@
 did it different
 - HI, I AM VED PAWAR(Github-https://github.com/vedpawar2254; linkedin-https://www.linkedin.com/in/ved-pawar-00169a268/)
 - Hi, it's Michele here
+- Hi, Tomislav here!
+- Hello! This is Nicol👋✨
 - Hi y'all, it's Gabe!
 - Hi, it's Vishesh here
 - Hi, I am Aoao!(https://github.com/aoao1024)
@@ -9373,6 +9375,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I am [Alex](https://github.com/alexlee39), trying to develop my coding skills through open-sourcing and projects
 - Hi, I'm Gakuto, hope you guys enjoy coding!
 - Hi, I am Krish Gupta. This is my first contribution, and from now on, I am eager to contribute more to open-source projects.
+- Hi, I am harshit. It's the start of my open-source journey.
 - BT
 - Hi, This is Kailash Sundaramurthy from Chennai, Tamilnadu, India, making my 1st contribution.
 - Hello, My name is Akash (sky-39).
